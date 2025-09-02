@@ -48,7 +48,6 @@ On my GitHub, you'll find a variety of repositories including:
 | Top Languages     | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonsmith1897&layout=compact&theme=radical) |
 | MoRSE Engagement  | ⭐ +12 stars ·  Forks: 3                             |
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonsmith1897&layout=compact&theme=radical)  
 ---
 
 ##  Let's Connect  
