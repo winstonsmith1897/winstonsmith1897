@@ -54,8 +54,7 @@ On GitHub you’ll find a mix of:
 
 - 📄 [Google Scholar](https://scholar.google.com/citations?user=hhNQwfkAAAAJ)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/marco-simoni-ba1a06242/)  
-- ✉️ Contact me: *add your email or preferred contact*  
-
+- ✉️ Contact me: **marco.simoni@iit.cnr.it**  
 ---
 
 ⭐️ *Always curious, always building – at the crossroads of AI and Cybersecurity.*  
