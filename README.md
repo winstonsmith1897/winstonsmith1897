@@ -1,60 +1,62 @@
 # 👋 Hi, I'm Marco Simoni  
 
-🎓 Ph.D. Candidate in **Cybersecurity & Artificial Intelligence**  
-💻 Researcher at **CNR – Institute of Informatics and Telematics** & **Sapienza University of Rome**  
-🔬 Passionate about **LLMs, Cyber Threat Intelligence, and Reinforcement Learning**  
+### 🎓 Ph.D. Candidate in **Cybersecurity & Artificial Intelligence**  
+#### Researcher at CNR – Institute of Informatics and Telematics & Sapienza University of Rome  
 
 ---
 
 ## 🚀 About Me  
 
-I am a researcher and developer working at the intersection of **Artificial Intelligence** and **Cybersecurity**.  
-My work focuses on:  
-
-- 🧠 **Large Language Models (LLMs):** improving reasoning, training methods, and alignment.  
-- 🔐 **Cybersecurity Expertise:** building intelligent assistants, rule generators, and malware profiling tools.  
-- 📊 **Knowledge Graphs & RAG:** integrating structured knowledge with generative AI to bridge the gap in security expertise.  
-- ⚡ **Hands-on Security:** from **malware analysis** to **penetration testing** and **IoT policy enforcement**.  
-
-I believe in combining **theoretical research** with **practical applications**, creating tools that are both academically sound and useful for real-world security challenges.  
+I’m a researcher and developer exploring the dynamic interface between **AI** and **Cybersecurity**. Through my work, I focus on:  
+- 🧠 Enhancing reasoning and alignment in **Large Language Models (LLMs)**  
+- 🔐 Developing intelligent tools for Cybersecurity, from vulnerability detection to policy automation  
+- 📊 Merging structured knowledge with generative AI via **Retrieval-Augmented Generation (RAG)**  
+- ⚡ Creating both theoretical and practical solutions—from malware analysis to IoT security
 
 ---
 
 ## 📚 Research & Publications  
 
-My research is published in **top international venues** and covers topics such as:  
-
-- Next-generation **LLM training strategies** (trajectory-based and group-relative policy optimization).  
-- Automated **policy generation** for IoT and access control systems.  
-- **Retrieval-Augmented Systems** for cybersecurity expertise.  
-- Advanced **malware detection and categorization** methods.  
-
-Find the full list of my publications on [Google Scholar](https://scholar.google.com/citations?user=hhNQwfkAAAAJ).  
+My publications span topics like LLM training strategies, automated IoT policy generation, retrieval-augmented cybersecurity systems, and advanced malware detection.  
+Explore my work on [Google Scholar](https://scholar.google.com/citations?user=hhNQwfkAAAAJ).
 
 ---
 
-## 💡 Projects & Development  
+##  MoRSE Project Highlights
 
-On GitHub you’ll find a mix of:  
-
-- 🔬 **Research Prototypes** – implementations of cutting-edge algorithms and models.  
-- 🛡️ **Cybersecurity Tools** – from malware analysis pipelines to vulnerability detection systems.  
-- 📦 **Side Projects & CTF Write-ups** – explorations of security challenges and creative coding experiments.  
-
----
-
-## 📈 GitHub Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winstonsmith1897&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonsmith1897&layout=compact&theme=radical)  
+**MoRSE – Mixture of RAGs Security Experts** merges generative LLM power with retrieval mechanisms to build a truly **cybersecurity-specialized AI chatbot**, providing accurate and consistently updated responses to technical queries.  
+- ⭐ 12 stars ·  Forks: 3  
+- 88.9 % Python, 11.1 % TeX  
+- Performance: Demonstrates **> 10 % improvement** in relevance and correctness over models like GPT-4 and Mixtral 7x8:contentReference[oaicite:1]{index=1}
 
 ---
 
-## 🤝 Let’s Connect  
+##  GitHub Projects & Development Snapshot
 
-- 📄 [Google Scholar](https://scholar.google.com/citations?user=hhNQwfkAAAAJ)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/marco-simoni-ba1a06242/)  
-- ✉️ Contact me: **marco.simoni@iit.cnr.it**  
+On my GitHub, you'll find a variety of repositories including:  
+- **Research prototypes** implementing my latest algorithms  
+- **Cybersecurity tools**, from malware analysis pipelines to exploit detection systems  
+- **CTF write-ups & creative coding** pushing the boundaries of security practice  
+
 ---
 
-⭐️ *Always curious, always building – at the crossroads of AI and Cybersecurity.*  
+##  Total GitHub Stats Snapshot (Including MoRSE)
+
+| Metric             | Value                                              |
+|-------------------|----------------------------------------------------|
+| GitHub Stats      | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winstonsmith1897&show_icons=true&theme=radical) |
+| Top Languages     | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonsmith1897&layout=compact&theme=radical) |
+| MoRSE Engagement  | ⭐ 12 stars ·  Forks: 3                             |
+| Languages Used in MoRSE | Python (88.9 %), TeX (11.1 %)                  |
+
+---
+
+##  Let's Connect  
+
+-  [Google Scholar](https://scholar.google.com/citations?user=hhNQwfkAAAAJ)  
+-  [LinkedIn](https://www.linkedin.com/in/marco-simoni-ba1a06242/)  
+-  Contact: **marco.simoni@iit.cnr.it**  
+
+---
+
+⭐ Always curious, always building — merging AI with Cybersecurity at every step!  
