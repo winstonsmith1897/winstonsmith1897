@@ -44,9 +44,7 @@ On my GitHub, you'll find a variety of repositories including:
 ## 🎥 MoRSE Project Highlights
 
 **MoRSE – Mixture of RAGs Security Experts** merges generative LLM power with RAG to build a truly **cybersecurity-specialized AI chatbot**, providing accurate and consistently updated responses to technical queries.  
-- ⭐ 12 stars · Forks: 3  
-- 📺 [Watch the demo on YouTube](https://www.youtube.com/watch?v=nsI1HCUVDSc)
-
+[![YouTube](https://img.shields.io/badge/YouTube-Demo-red?logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=nsI1HCUVDSc)
 
 ---
 
