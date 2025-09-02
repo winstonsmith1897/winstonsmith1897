@@ -42,12 +42,14 @@ On my GitHub, you'll find a variety of repositories including:
 
 ##  Total GitHub Stats Snapshot (Including MoRSE)
 
-| Metric             | Value                                              |
-|-------------------|----------------------------------------------------|
-| GitHub Stats      | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winstonsmith1897&show_icons=true&theme=radical) |
-| Top Languages     | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonsmith1897&layout=compact&theme=radical) |
-| MoRSE Engagement  | ⭐ 12 stars ·  Forks: 3                             |
-| Languages Used in MoRSE | Python (88.9 %), TeX (11.1 %)                  |
+
+| Repository / Profile            | Stars | Forks | Main Languages         |
+|--------------------------------|-------|-------|------------------------|
+| **Overall GitHub Profile**     | —     | —     | See dynamic GitHub stats below |
+| **MoRSE (Mixture-of-RAGs)**    | ⭐ *to be filled* | *to be filled* | *to be filled* |
+| **GTPO**                       | ⭐ *to be filled* | *to be filled* | *to be filled* |
+| **GitHub Profile Overview**    | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winstonsmith1897&show_icons=true&theme=radical) |  |
+| **Top Languages Used**         | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonsmith1897&layout=compact&theme=radical) |  |
 
 ---
 
