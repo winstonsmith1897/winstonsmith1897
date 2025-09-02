@@ -22,15 +22,6 @@ Explore my work on [Google Scholar](https://scholar.google.com/citations?user=hh
 
 ---
 
-##  MoRSE Project Highlights
-
-**MoRSE – Mixture of RAGs Security Experts** merges generative LLM power with retrieval mechanisms to build a truly **cybersecurity-specialized AI chatbot**, providing accurate and consistently updated responses to technical queries.  
-- ⭐ 12 stars ·  Forks: 3  
-- 88.9 % Python, 11.1 % TeX  
-- Performance: Demonstrates **> 10 % improvement** in relevance and correctness over models like GPT-4 and Mixtral 7x8:contentReference[oaicite:1]{index=1}
-
----
-
 ##  GitHub Projects & Development Snapshot
 
 On my GitHub, you'll find a variety of repositories including:  
@@ -47,6 +38,15 @@ On my GitHub, you'll find a variety of repositories including:
 | GitHub Stats      | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winstonsmith1897&show_icons=true&theme=radical) |
 | Top Languages     | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonsmith1897&layout=compact&theme=radical) |
 | MoRSE Engagement  | ⭐ +12 stars ·  Forks: 3                             |
+
+---
+
+## 🎥 MoRSE Project Highlights
+
+**MoRSE – Mixture of RAGs Security Experts** merges generative LLM power with RAG to build a truly **cybersecurity-specialized AI chatbot**, providing accurate and consistently updated responses to technical queries.  
+- ⭐ 12 stars · Forks: 3  
+- 📺 [Watch the demo on YouTube](https://www.youtube.com/watch?v=nsI1HCUVDSc)
+
 
 ---
 
