@@ -33,7 +33,7 @@ On my GitHub, you'll find a variety of repositories including:
 
 ##  Total GitHub Stats 
 
-| Metric             | Value                                              |
+| Metric            | Value                                              |
 |-------------------|----------------------------------------------------|
 | GitHub Stats      | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=winstonsmith1897&show_icons=true&theme=radical) |
 | Top Languages     | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonsmith1897&layout=compact&theme=radical) |
