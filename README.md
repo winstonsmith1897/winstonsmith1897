@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Marco Simoni  
 
 ### 🎓 Ph.D. Candidate in **Cybersecurity & Artificial Intelligence**  
-#### Researcher at CNR – Institute of Informatics and Telematics & Sapienza University of Rome  
+#### Researcher at CNR – Institute of Informatics and Telematics (IIT) & Sapienza University of Rome  
 
 ---
 
