@@ -42,8 +42,8 @@ My work heavily focus on:
 
 ## Technical Writing
 
-* **[GTPO vs GRPO: A Smarter Path to Stable Reasoning LLMs](#)**: An in-depth analysis of addressing GRPO's gradient conflicts and policy collapse through the use of conflict masks and entropy regularization[cite: 58, 59].
-* **[REINFORCE vs. Posterior Token Targets: Two Paths to Steering Language Models](#)**: Exploring the core mechanics of how we should change the probabilities a model assigns to different tokens at each step to effectively steer behavior.
+* **[GTPO vs GRPO: A Smarter Path to Stable Reasoning LLMs](https://medium.com/@marco.simoni0711/gtpo-vs-grpo-a-smarter-path-to-stable-reasoning-llms-3f51bc0b58c1)**: An in-depth analysis of addressing GRPO's gradient conflicts and policy collapse through the use of conflict masks and entropy regularization.
+* **[REINFORCE vs. Posterior Token Targets: Two Paths to Steering Language Models](https://medium.com/@marco.simoni0711/reinforce-vs-posterior-token-targets-two-paths-to-steering-language-models-42892f15cd70)**: Exploring the core mechanics of how we should change the probabilities a model assigns to different tokens at each step to effectively steer behavior.
 
 ---
 
