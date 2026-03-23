@@ -36,7 +36,7 @@ My work heavily focus on:
 ## Contact & Links
 
 * **Email:** marco.simoni0711@gmail.com 
-* **Website:** [winstonsmith1897]([https://github.com/winstonsmith1897](https://winstonsmith1897.github.io/))
+* **Website:** [winstonsmith1897](https://winstonsmith1897.github.io/)
 * **Google Scholar:** [Marco Simoni](https://scholar.google.com/citations?user=hhNQwfkAAAAJ)
 * **Linkedin:** [Marco Simoni](https://www.linkedin.com/in/marcosimoniai/)
 * **X:** [Marco Simoni](https://x.com/MarcoSimon21078)
