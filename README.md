@@ -8,7 +8,7 @@ I hold a Ph.D. in Artificial Intelligence from Sapienza University of Rome, spec
 
 ## Core Focus
 
-My work heavily focus on:
+My work heavily focuses on:
 
 * **LLM Alignment & RL:** Designing policy optimization algorithms (PPO, GRPO, GTPO) to mitigate LLM policy collapse and improve reasoning capabilities.
 * **LLM Architecture & Retrieval:** Building LLM architectures from scratch (Sparse MoE, ROPE, GQA) and implementing complex RAG frameworks for knowledge extraction.
