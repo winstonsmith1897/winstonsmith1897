@@ -33,6 +33,20 @@ My work heavily focus on:
 
 ---
 
+## Research Experience
+
+* **CNR-IIT & NetGroup | AI Researcher:** Engineered an LLM-driven framework to seamlessly automate the translation of natural language requirements into structured XACML access control policies.
+* **Horus Project | AI Researcher:** Architected and trained a custom Transformer-based Foundation Model from scratch, specifically designed for proactive cyber-attack prediction.
+
+---
+
+## Technical Writing
+
+* **[GTPO vs GRPO: A Smarter Path to Stable Reasoning LLMs](#)**: An in-depth analysis of addressing GRPO's gradient conflicts and policy collapse through the use of conflict masks and entropy regularization[cite: 58, 59].
+* **[REINFORCE vs. Posterior Token Targets: Two Paths to Steering Language Models](#)**: Exploring the core mechanics of how we should change the probabilities a model assigns to different tokens at each step to effectively steer behavior.
+
+---
+
 ## Contact & Links
 
 * **Email:** marco.simoni0711@gmail.com 
